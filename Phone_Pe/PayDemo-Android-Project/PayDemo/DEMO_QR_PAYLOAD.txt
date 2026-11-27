@@ -1,0 +1,1 @@
+paydemo://pay?name=Rahul%20Sharma&upi=rahul%40demobank&bank=Demo%20Bank
